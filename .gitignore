@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
+.idea/
+
+# Results / simulation outputs
+*.npy
+*.pkl
+*.log
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS / hidden files
+.DS_Store
+Thumbs.db
