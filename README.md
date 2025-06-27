@@ -14,3 +14,6 @@ See `requirements.txt`
 
 ## 📈 Figures
 Code to reproduce all four main figures.
+
+## 🚀 Demo
+See `demo/demo.ipynb` for a simple example of how to simulate and visualize the model.
